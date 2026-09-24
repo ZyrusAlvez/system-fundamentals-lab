@@ -1,0 +1,7 @@
+Name: Lucky Angel S. Guevarra, Zyrus R. Alvez
+
+Program: BSCS
+
+Subject: System Fundamentals
+
+We are learning Git and GitHub.
